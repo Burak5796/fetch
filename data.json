@@ -1,0 +1,19 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Oz",
+        "age": 22
+    },
+
+    {
+        "firstName": "Kobe",
+        "lastName": "Bryant",
+        "age": 42
+    },
+
+    {
+        "firstName": "LeBron",
+        "lastName": "James",
+        "age": 37
+    }
+]
